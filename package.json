@@ -28,7 +28,8 @@
     "underscore": ">= 1.0.0",
     "clark": "0.0.6",
     "cheerio": "~0.12.0",
-    "htmlparser": "1.7.6"
+    "htmlparser": "1.7.6",
+    "wolfram": "0.3.0"
   },
   "engines": {
     "node": ">= 0.8.x",
